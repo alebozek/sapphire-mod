@@ -3,11 +3,11 @@
   "category": "building",
   "ingredients": [
     {
-      "item": "tutorialmod:sapphire_block"
+      "item": "sapphiremod:sapphire_block"
     }
   ],
   "result": {
-    "item": "tutorialmod:sapphire",
+    "item": "sapphiremod:sapphire",
     "count": 9
   }
 }

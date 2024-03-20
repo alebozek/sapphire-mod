@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "tutorialmod",
+	"id": "sapphiremod",
 	"version": "${version}",
 	"name": "Tutorial Mod",
 	"description": "This is a tutorial mod made by th3-m0th",
@@ -16,13 +16,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.th3m0th.tutorialmod.TutorialMod"
+			"net.th3m0th.sapphiremod.SapphireMod"
 		],
 		"client": [
-			"net.th3m0th.tutorialmod.TutorialModClient"
+			"net.th3m0th.sapphiremod.SapphireModClient"
 		],
 		"fabric-datagen": [
-			"net.th3m0th.tutorialmod.TutorialModDataGenerator"
+			"net.th3m0th.sapphiremod.SapphireModDataGenerator"
 		]
 	},
 	"mixins": [
