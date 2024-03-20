@@ -1,4 +1,4 @@
-package net.th3m0th.tutorialmod.mixin;
+package net.th3m0th.sapphiremod.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;
