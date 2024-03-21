@@ -11,7 +11,7 @@ import net.minecraft.util.Identifier;
 import net.th3m0th.sapphiremod.SapphireMod;
 
 public class ModItems  {
-    public static final Item SAPPHIRE = registerItem("sapphire", new Item(new FabricItemSettings()));
+    public static final Item SAPPHIRE = registerItem("sapphire", new Sapphire(new FabricItemSettings()));
     public static final Item RAW_SAPPHIRE = registerItem("raw_sapphire", new Item(new FabricItemSettings()));
 
     private static void addItemsToIngredientTabItemGroup(FabricItemGroupEntries entries) {
