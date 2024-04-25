@@ -10,7 +10,7 @@
         },
         "target": {
           "predicate_type": "minecraft:tag_match",
-          "tag": "minecraft:stone_ore_replaceables"
+          "tag": "minecraft:gold_ore_replaceables"
         }
       },
       {
@@ -26,3 +26,7 @@
   }
 }
 
+/*Que te amo, que te quiero, que te adoro.
+Que me dejas con las patas colgando, que no puedo parar de pensar en ti.
+QUe me preñas con la mirada.
+Que me has dejado como la boca del metro*/

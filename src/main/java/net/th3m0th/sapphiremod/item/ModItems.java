@@ -14,9 +14,12 @@ public class ModItems  {
     public static final Item SAPPHIRE = registerItem("sapphire", new Sapphire(new FabricItemSettings()));
     public static final Item RAW_SAPPHIRE = registerItem("raw_sapphire", new Item(new FabricItemSettings()));
 
+    public static final Item SAPPHIRE_WAND = registerItem("sapphire_wand", new SapphireWand(new FabricItemSettings()));
+
     private static void addItemsToIngredientTabItemGroup(FabricItemGroupEntries entries) {
         entries.add(SAPPHIRE);
         entries.add(RAW_SAPPHIRE);
+        entries.add(SAPPHIRE_WAND);
     }
 
 
